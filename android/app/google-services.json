@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679201416023",
+    "project_id": "oneloggt",
+    "storage_bucket": "oneloggt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679201416023:android:fe330d8b96a7fbc78dd412",
+        "android_client_info": {
+          "package_name": "com.oneloggt.oneloggt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679201416023-el9i920n4p7patg5mk39rr2aaijepvfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJgZ5IOVcH09-zbQPa9ipoyMTOXWROAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679201416023-el9i920n4p7patg5mk39rr2aaijepvfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
